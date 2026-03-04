@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+python-docx
+pdfplumber
+langchain
+langchain-google-genai
+supabase
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
